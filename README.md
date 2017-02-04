@@ -7,9 +7,9 @@ THIS REPOSITORY IS AN ABSOLUTE .md WIKI FOR DOCUMENTATION OF THE [N1Xweb](http:/
 ### Synopsis
 The N1Xweb project is a self organization endeavor by me, Nikhil, to keep intact all the time and experience I'd accumulate throughout my life. It cherishes knowledge and passion, and reflects upon my character and core values. It's more of a portal to embellish my zeals and notoriety, let alone fascination.
  
-### Sub Domains (Parks)
-- About.N1X.website
-- its.N1X.website
+### Sub Domains (Parks)   
+- About.N1X.website  
+- its.N1X.website  
 - art.N1X.website
 - Li.N1X.website
 
