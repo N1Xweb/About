@@ -16,7 +16,7 @@ The breakdown is hierarchial in structure. Each sub is an individual and indepen
 - [x] the official homepage for itsN1X.
 
 - Li.N1X.website
--[x] the Linux help for newbies
+- [x] the Linux help for newbies
 
 ----
 # The N1Xweb Project. All rights reserved.
