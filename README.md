@@ -9,8 +9,7 @@ The N1Xweb project is a self organization endeavor by me, Nikhil, to keep intact
  
 ### Sub Domains (Parks)   
 - About.N1X.website  
-- its.N1X.website  
-- art.N1X.website   
+- its.N1X.website    
 - Li.N1X.website   
 
 ----
